@@ -1,7 +1,7 @@
 # Repository "multisymplectic"
 Backward error Lagrangian for travelling wave in discretised nonlinear wave equation
 
-I am providing files that can be used to verify the computational example presented in chapter 13 (Section 13.2.3) of my PhD thesis as well as in Appendix C.
+I am providing files that can be used to verify the computational example presented in chapter 13 (Section 13.4) of my PhD thesis as well as in Appendix C. Moreover, files for the numerical experiments of section 13.5 can be found in the corresponding subfolder.
 
 Instructions.
 Save the content of the repository locally and open the Wolfram Mathematica Notebook file "MAIN_Compute_Lagrangian.nb". The notebook displays computational results for the modified Lagrangian up to (including) order 6. Here, the rotation constant alpha is set to zero. The modified 2nd order ODE for general alpha is displayed the notebook "Reduced_BackwardODE.nb".

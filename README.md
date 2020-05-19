@@ -19,3 +19,5 @@ To run the files, please follow the instructions outlined in "MAIN_Compute_Lagra
 If you run the files (without commenting out save commands) the computed data saved in "ComputedData.wl" will be overwritten. Alternatively, use DumpSave to save computed values locally. However, note that this makes the data platform dependent.
 
 The scripts have been tested in Wolfram Mathematica 11.0.1.0. 
+
+For citing this work, please use the doi 10.5281/zenodo.3726256

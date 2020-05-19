@@ -4,3 +4,5 @@ A Lagrangian of the modified equation for a travelling wave in the wave equation
 Refer to comments in the files LagrangianFinder.m and LagrangianFinderFull.m
 
 All computations have been performed in Mathematica 11.0.1.0
+
+To cite this work please use the doi 10.5281/zenodo.3726256

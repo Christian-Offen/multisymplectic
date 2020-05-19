@@ -20,4 +20,4 @@ If you run the files (without commenting out save commands) the computed data sa
 
 The scripts have been tested in Wolfram Mathematica 11.0.1.0. 
 
-For citing this work, please use the doi 10.5281/zenodo.3726256
+To cite this work please use the doi 10.5281/zenodo.3726256

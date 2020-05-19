@@ -1,23 +1,15 @@
 # Repository "multisymplectic"
-Backward error Lagrangian for travelling wave in discretised nonlinear wave equation
+Backward error analysis for travelling wave in discretised nonlinear wave equation
 
-I am providing files that can be used to verify the computational example presented in chapter 13 (Section 13.4) of my PhD thesis as well as in Appendix C. Moreover, files for the numerical experiments of section 13.5 can be found in the corresponding subfolder. For these, please refer to the Readme.md files in the corresponding subfolders.
+The following Wolfram Mathematica Notebooks compute modified data for a rotating travelling wave in the nonlinear wave equation discretised by the 5-point stencil. 
 
-Instructions.
-Save the content of the repository locally and open the Wolfram Mathematica Notebook file "MAIN_Compute_Lagrangian.nb". The notebook displays computational results for the modified Lagrangian up to (including) order 6. Here, the rotation constant alpha is set to zero. The modified 2nd order ODE for general alpha is displayed the notebook "Reduced_BackwardODE.nb".
+1) The folder "Modified_Hamiltonian_System" contains scripts to compute the modified Hamiltonian system governing the dynamics. 
+2) The folder "Lmod_PSeries_Ansatz" contains scripts to compute the modified Lagrangian in the case of non-rotating travelling waves using a P-Series ansatz.
+3) The folder "Lmod_Polynomial_Ansatz" contains scripts to compute the modified Lagrangian using a polynomial ansatz. Due to theoretical constraints it can only work in special cases such as not rotation, zero wave speed, or special choices of the discretisation parameters.
+4) To compute the modified ODE governing the dynamics, run "ModODE_TravellingWave.nb". 
+5) The folder "Numerical_Experiment" contains MATLAB scripts to run numerical experiments with the computed data.
 
-Moreover, the following computed variables "order, phi2Red, LAnsatzsolas" are saved in the file "ComputedData.wl" which is contained in the zip-folder "ComputedData.zip". The variables can be loaded into a Mathematica notebook using the command "Get" (after unzipping). For an illustration how to load the computed data, please extract "ComputedData.zip" into the directory in which the notebook "LoadScript.nb" is located and view or run the notebook "LoadScript.nb". The variables have the following meaning:
+The script listed in the above enumerated list work independently. For detailed information on how to run the scripts refer to the README.md files in the subfolders.
 
-order = The order up to which the backward error analysis was performed. The value is inclusive.
+To cite this work, please cite the zenodo doi of most current release: 10.5281/zenodo.3726256
 
-phi2Red = The modified ODE for a rotating travelling wave in the discretised nonlinear wave equation.
-
-LAnsatzsolas = The computed modified Lagrangian for the non-rotational case (alpha=0) 
-
-To run the files, please follow the instructions outlined in "MAIN_Compute_Lagrangian.nb".
-
-If you run the files (without commenting out save commands) the computed data saved in "ComputedData.wl" will be overwritten. Alternatively, use DumpSave to save computed values locally. However, note that this makes the data platform dependent.
-
-The scripts have been tested in Wolfram Mathematica 11.0.1.0. 
-
-To cite this work please use the doi 10.5281/zenodo.3726256

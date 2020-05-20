@@ -11,3 +11,6 @@ When running the scripts, run
 2) "ComputeHmod.nb" followed by
 3) "SymplecticStructure.nb".
 
+The scripts have been created and tested in Wolfram Mathematica 12.0.
+
+To cite this work, please cite the zenodo doi of most current release.

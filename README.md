@@ -11,5 +11,5 @@ The following Wolfram Mathematica Notebooks compute modified data for a rotating
 
 The script listed in the above enumerated list work independently. For detailed information on how to run the scripts refer to the README.md files in the subfolders.
 
-To cite this work, please cite the zenodo doi of most current release: 10.5281/zenodo.3726256
+To cite this work, please cite the zenodo doi of most current release.
 

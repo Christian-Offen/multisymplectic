@@ -5,4 +5,5 @@ Refer to comments in the Mathematica notebook files LagrangianFinder.m and Lagra
 
 All computations have been performed in Wolfram Mathematica 11.0.1.0
 
-To cite this work please use the doi 10.5281/zenodo.3726256
+
+To cite this work, please cite the zenodo doi of most current release.

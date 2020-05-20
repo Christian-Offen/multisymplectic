@@ -1,5 +1,4 @@
-# Repository "multisymplectic"
-Backward error analysis for travelling wave in discretised nonlinear wave equation
+# Backward error analysis for travelling wave in discretised nonlinear wave equation
 
 The following Wolfram Mathematica Notebooks compute modified data for a rotating travelling wave in the nonlinear wave equation discretised by the 5-point stencil. 
 

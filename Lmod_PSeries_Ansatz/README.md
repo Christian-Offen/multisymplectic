@@ -1,4 +1,4 @@
-# Repository "multisymplectic"
+# Computation modified Lagrangian via P-Series
 Backward error Lagrangian for travelling wave in discretised nonlinear wave equation
 
 Compute modified Lagrangian using a P-Series ansatz

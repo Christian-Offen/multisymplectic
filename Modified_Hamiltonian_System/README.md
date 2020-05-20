@@ -1,4 +1,4 @@
-# Repository "multisymplectic"
+# Modified Hamiltonian structure
 
 The provided Wolfram Mathematica files can be used to compute the modified Hamiltonian system which governs rotating travelling waves in the non-linear wave equation discretised by the 5-point stencil. 
 

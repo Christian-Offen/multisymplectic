@@ -1,6 +1,6 @@
 # Backward error analysis for travelling wave in discretised nonlinear wave equation
 
-The following Wolfram Mathematica Notebooks compute modified data for a rotating travelling wave in the nonlinear wave equation discretised by the 5-point stencil. See "Computational_Results_documented.pdf" for details on the analysis, a description of the computational examples, and a presentation of the computational results.
+The following Wolfram Mathematica Notebooks compute modified data for a rotating travelling wave in the nonlinear wave equation discretised by the 5-point stencil. See "Computational_Results_documented.pdf" for details on the analysis, a description of the computational examples, and a presentation of the computational results. Additionally, the file "BEA_Leapfrog.nb" illustrates on a classical example the presented method of backward error analysis.
 
 1) The folder "Modified_Hamiltonian_System" contains scripts to compute the modified Hamiltonian system governing the dynamics. 
 2) The folder "Lmod_PSeries_Ansatz" contains scripts to compute the modified Lagrangian in the case of non-rotating travelling waves using a P-Series ansatz.

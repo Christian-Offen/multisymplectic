@@ -10,9 +10,9 @@ for details on the analysis, a description of the computational examples, and a 
   
 illustrates on a classical example the presented method of backward error analysis.
 
-1) The folder "Modified_Hamiltonian_System" contains scripts to compute the modified Hamiltonian system governing the dynamics. 
+1) The folder "Modified_Hamiltonian_System" contains scripts to compute the modified Hamiltonian system governing the dynamics of the rotating travelling wave.
 2) The folder "Lmod_PSeries_Ansatz" contains scripts to compute the modified Lagrangian in the case of non-rotating travelling waves using a P-Series ansatz.
-3) The folder "Lmod_Polynomial_Ansatz" contains scripts to compute the modified Lagrangian using a polynomial ansatz. Due to theoretical constraints it can only work in special cases such as not rotation, zero wave speed, or special choices of the discretisation parameters. 
+3) The folder "Lmod_Polynomial_Ansatz" contains scripts to compute the modified Lagrangian using a polynomial ansatz. Due to theoretical constraints it can only work in special cases such as no rotation, zero wave speed, or special choices of the discretisation parameters. 
 4) The folder "Numerical_Experiment" contains MATLAB scripts to run numerical experiments with the computed data.
 
 The script in each subfolder are independent of the scripts in other subfolders. For detailed information on how to run the scripts refer to the README.md files in the subfolders.

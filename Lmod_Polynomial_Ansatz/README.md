@@ -8,4 +8,8 @@ Due to theoretical constraints a polynomial ansatz in the dynamical variables is
 
 The scripts have been created and tested with Wolfram Mathematica 12.0.
 
-To cite this work, please cite the zenodo doi of most current release.
+To cite this work, please use the zenodo doi of most recent release (10.5281/zenodo.3905510). The files accompany the preprint
+
+	Backward error analysis for variational discretisations of partial differential equations
+	Robert I McLachlan, Christian Offen
+	https://arxiv.org/abs/2006.14172

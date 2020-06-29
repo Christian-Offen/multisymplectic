@@ -1,6 +1,13 @@
 # Backward error analysis on symmetric solutions of PDEs
 
-The following Wolfram Mathematica Notebooks show an approach to backward error analysis for PDEs by analysing modified equations for highly symmetric solutions. In particular, the notebooks allow to compute modified data for a rotating travelling wave in the nonlinear wave equation discretised by the 5-point stencil. See
+The following Wolfram Mathematica Notebooks show an approach to backward error analysis for PDEs by analysing modified equations for highly symmetric solutions. In particular, the notebooks allow to compute modified data for a rotating travelling wave in the nonlinear wave equation discretised by the 5-point stencil.
+The files accompany the preprint
+
+	Backward error analysis for variational discretisations of partial differential equations
+	Robert I McLachlan, Christian Offen
+	https://arxiv.org/abs/2006.14172
+
+Also see
 
   *Computational_Results_documented.pdf
   
@@ -17,5 +24,5 @@ illustrates on a classical example the presented method of backward error analys
 
 The script in each subfolder are independent of the scripts in other subfolders. For detailed information on how to run the scripts refer to the README.md files in the subfolders.
 
-To cite this work, please cite the zenodo doi of the most current release and the corresponding publication (once it is available). For this, see https://orcid.org/0000-0002-5940-8057 or https://arxiv.org/search/?query=Offen%2C+Christian&searchtype=author.
+To cite this work, please cite the zenodo doi of the most current release (10.5281/zenodo.3905510) and the corresponding publication (once it is available). For this, see https://orcid.org/0000-0002-5940-8057 or https://arxiv.org/abs/2006.14172.
 

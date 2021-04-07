@@ -1,8 +1,10 @@
 # Numerical experiments with modified data
 
-Refer to the folder "modified_system" for numerical experiments on the modified equation (MATLAB files).
+MATLAB scripts to run numerical experiments with the computed modified system
 
-Refer to the folder "multistep_experiments" for numerical experiments, where dx and c*dt are in a rational relation and the considered functional equation can be used as a multistep formula (Python, Jupyter Notebook).
+Run "MAIN.m" in MATLAB.
+
+The scripts have been created and tested in MATLAB R2018b.
 
 To cite this work, please use the zenodo doi of most recent release (10.5281/zenodo.3905510). The files accompany the preprint
 

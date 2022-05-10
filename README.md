@@ -5,6 +5,7 @@ The files accompany the preprint
 
 	Backward error analysis for variational discretisations of partial differential equations
 	Robert I McLachlan, Christian Offen
+	To appear in Journal of Geometric Mechanics 
 	https://arxiv.org/abs/2006.14172
 
 Also see
@@ -24,5 +25,5 @@ illustrates on a classical example the presented method of backward error analys
 
 The script in each subfolder are independent of the scripts in other subfolders. For detailed information on how to run the scripts refer to the README.md files in the subfolders.
 
-To cite this work, please cite the zenodo doi of the most recent release (10.5281/zenodo.3905510) and the corresponding publication (once it is available). For this, see https://orcid.org/0000-0002-5940-8057 or https://arxiv.org/abs/2006.14172.
+To cite this work, please cite the corresponding publication (once it is available). For this, see https://arxiv.org/abs/2006.14172, https://ris.uni-paderborn.de/person/85279, or https://orcid.org/0000-0002-5940-8057
 

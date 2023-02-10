@@ -9,7 +9,7 @@ The files accompany the paper
 	DOI 10.3934/jgm.2022014
 
 	
-<a href="https://arxiv.org/abs/2006.14172">ArXiv/a>, <a href="https://arxiv.org/a/offen_c_1.html">ArXiv author page/a>, <a href="https://doi.org/10.3934/jgm.2022014">DOI</a>
+<a href="https://arxiv.org/abs/2006.14172">ArXiv</a>, <a href="https://arxiv.org/a/offen_c_1.html">ArXiv author page</a>, <a href="https://doi.org/10.3934/jgm.2022014">DOI</a>
 
 
 Also see
